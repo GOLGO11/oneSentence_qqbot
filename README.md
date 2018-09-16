@@ -3,7 +3,8 @@
 
 
 ## 第一步
-  安装qqbot：pip install qqbot 
+  安装qqbot：pip install qqbot
+  
   qqbot使用教程：https://github.com/GOLGO11/qqbot （只需要看前四点）
 
 ## 第二步
