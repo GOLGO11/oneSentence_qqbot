@@ -2,13 +2,16 @@
 使用python和qqbot创建一个优美的QQ机器人
 
 
+
 ## 第一步
   安装qqbot：pip install qqbot
   
   qqbot使用教程：https://github.com/GOLGO11/qqbot （只需要看前四点）
   
+  
 
 ## 第二步
+
 
 
  编写机器人:
@@ -26,6 +29,7 @@
   4.保存sample.py
   
  
+ 
  启动机器人
  
   1.打开命令行2
@@ -35,6 +39,7 @@
   2.在命令行1 输入qq plug sample，将onQQMessage函数注册到qqbot的响应事件上（必须先在命令行2启动qqbot）
   
   3.启动完毕
+  
   
   
  使用效果
