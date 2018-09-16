@@ -20,7 +20,7 @@
   
   1.进入 ~/.qqbot-tmp/plugins/ 目录，在该目录下创建sample.py
   
-  1.调用一言网站（htokoto）的公开API获取数据，https://hitokoto.cn/api
+  1.调用一言网站（hitokoto）的公开API获取数据，https://hitokoto.cn/api
   
   2.将获得的数据存进一个变量str
   
